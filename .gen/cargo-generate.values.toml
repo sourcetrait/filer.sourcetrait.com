@@ -31,6 +31,8 @@ product-cli-name = ""
 site-domain-name = "filer.sourcetrait.com"
 site-title = "Filer | SourceTrait"
 site-description = "Novel method of record-keeping using existing filesystem tools"
+site-theme = ""
+site-logo-variant = "_stroke-yellow"
 
 # Site (Expanded)
 site-url = ""
