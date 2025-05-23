@@ -1,0 +1,54 @@
+[values]
+# Leave the 'Expanded' variables empty to generate based on raw data and defaults.
+
+# Suite
+suite-title = "SourceTrait"
+suite-brand-dir = "sourcetrait"
+suite-cli-name = "srctrait"
+
+# Suite (Expanded)
+suite-title-lowercase = ""
+suite-slug = ""
+
+# Suite Member
+suite-member-title = "Filer"
+
+# Suite Member (Expanded)
+suite-member-title-lowercase = ""
+suite-member-slug = ""
+suite-member-cli-name = ""
+
+# Product
+product-title = "SourceTrait Filer"
+product-brand-dir = "sourcetrait/filer"
+
+# Product (Expanded)
+product-title-lowercase = ""
+product-slug = ""
+product-cli-name = ""
+
+# Site
+site-domain-name = "filer.sourcetrait.com"
+site-title = "Filer | SourceTrait"
+site-description = "Novel method of record-keeping using existing filesystem tools"
+
+# Site (Expanded)
+site-url = ""
+
+# Repository
+repository-name = "srctrait-filer"
+
+# Repository (Defaults)
+repository-url-base = ""
+repository-homepage-url = ""
+repository-copyright-holder-name = ""
+repository-copyright-holder-url = ""
+repository-info-file-name = ""
+repository-info-file-path = ""
+
+# Repository (Expanded)
+repository-url = ""
+repository-copyright-year = ""
+
+# Copy (Expanded from assets.rhai)
+copy-product-description = ""
